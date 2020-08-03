@@ -4,6 +4,10 @@
 
 ---
 
-### The actual project image
+### The actual project Gif
 
 <img align="left" alt="kishore007k.com" width="500px" src="Image%20Slider/Capture.PNG" />
+
+---
+
+##
