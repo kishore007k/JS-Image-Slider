@@ -6,7 +6,7 @@
 
 ### The actual project Gif
 
-<img align="left" alt="kishore007k.com" width="500px" src="Image%20Slider/Capture.PNG" />
+<img align="left" alt="kishore007k.com" width="500px" src="https://user-images.githubusercontent.com/34863222/89155274-23bacc80-d586-11ea-8028-b774f71982f0.gif" />
 
 ---
 
